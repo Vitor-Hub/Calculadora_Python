@@ -6,6 +6,7 @@
   <img src = "Calc.jpg"/>
 
 </p>
+<h2>Sobre</h2>
 <pre>
     Calculadora desenvolvida em Python para realizar operações básicas 
 </pre>
