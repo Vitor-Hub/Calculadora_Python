@@ -2,4 +2,4 @@
 <h3> Engenharia Elétrica com Ênfase em Sistemas e Computação</h3>
 <h4> Algoritmos </h4>
 
-<img src = "Calc.xcf"/>
+<img src = "Calc.jpg"/>
